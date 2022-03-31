@@ -2,7 +2,9 @@
 
 - Machine Learning Enthusiast.
 - B.Tech. 2020-2024
-- How to reach me: <a href="https://www.linkedin.com/in/visheshkumarsingh/">
+
+How to reach me:
+<a href="https://www.linkedin.com/in/visheshkumarsingh/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="mailto:visheshkrsinghofficial@gmail.com">
