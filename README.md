@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishesh!
+## Namaste World <img src="https://camo.githubusercontent.com/1901bfb5293e9991d6bc4beec6f0b47f374d35c53765e410ae306ca41cce4465/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a74326558736a376b6758726544476176312f67697068792e676966" width="29px">, I'm Vishesh!
 
 - Machine Learning Enthusiast.
 - B.Tech. 2020-2024
