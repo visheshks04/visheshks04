@@ -14,7 +14,7 @@
 </a>
 <br />
 <a href="https://www.leetcode.com/vishesh04/">
-  <img align="left" width="26px" src="https://leetcode.com/static/images/LeetCode_logo.png">
+  <img align="left" width="26px" src="https://leetcode.com/static/images/LeetCode_logo.png" />
 </a>
 <br />
 <br />
